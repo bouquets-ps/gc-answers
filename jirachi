@@ -178,10 +178,9 @@ button {
 
 <div id = "container">
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; width: 95%" class="infobox">
-<div style="display: inline-block; border: 0px solid #68a ; border-radius: 5px ; padding: 5px; width: 15%"><strong class="searchValue">Black</strong></div>
-<div style="display: inline-block; border: 0px solid #68a ; border-radius: 5px ; padding: 55px; width: 70%">Pikipek</div>
-</div><br><br>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; width: 95%" class="infobox"><table><tr><td style="width: 250px">Black</td>
+<td>Pikipek</td>
+</tr></table></div><br><br>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; width: 95%" class="infobox">
 <div style="display: inline-block; border: 0px solid #68a ; border-radius: 5px ; padding: 5px; width: 15%"><strong class="searchValue">Blue</strong></div>
