@@ -213,12 +213,12 @@ button {
 <td>Fennekin, Deerling-Autumn, Fletchling, Litten, Torchic, Kricketot, Wurmple, Flareon, Vivillon-Ocean, Porygon2</td>
 </tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Red</td>
-<td>Fennekin</td>
-<td>Deerling-Autumn</td>
-<td>Fletchling</td>
-<td>Litten</td>
-<td>Torchic</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 150px" class="searchValue">Red</td>
+<td style="width: 100px">Fennekin</td>
+<td style="width: 100px">Deerling-Autumn</td>
+<td style="width: 100px">Fletchling</td>
+<td style="width: 100px">Litten</td>
+<td style="width: 100px">Torchic</td>
 </tr><tr><td></td>
 <td>Kricketot</td>
 <td>Wurmple</td>
@@ -226,6 +226,21 @@ button {
 <td>Vivillon-Ocean</td>
 <td>Porygon2</td>
 </tr></table></div>
+
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 150px" class="searchValue">Red</td>
+<td style="width: 100px"><img src="https://play.pokemonshowdown.com/sprites/itemicons/fennekin.png"></img>Fennekin</td>
+<td style="width: 100px"><img src="https://play.pokemonshowdown.com/sprites/itemicons/deerling-autumn.png"></img>Deerling-Autumn</td>
+<td style="width: 100px"><img src="https://play.pokemonshowdown.com/sprites/itemicons/fletchling.png"></img>Fletchling</td>
+<td style="width: 100px"><img src="https://play.pokemonshowdown.com/sprites/itemicons/litten.png"></img>Litten</td>
+<td style="width: 100px"><img src="https://play.pokemonshowdown.com/sprites/itemicons/torchic.png"></img>Torchic</td>
+</tr><tr><td></td>
+<td><img src="https://play.pokemonshowdown.com/sprites/itemicons/kricketot.png"></img>Kricketot</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/itemicons/wurmple.png"></img>Wurmple</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/itemicons/flareon.png"></img>Flareon</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/itemicons/vivillon-ocean.png"></img>Vivillon-Ocean</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/itemicons/porygon2.png"></img>Porygon2</td>
+</tr></table></div>
+
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">White</td>
 <td>?</td>
