@@ -181,7 +181,7 @@ button {
 
 <div id = "container">
 
-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td style="width: 160px" class="searchValue"><b>Black</b></td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td style="width: 160px" class="searchValue"><b>Black</b></td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/pikipek.png">
 <br></img>Pikipek</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/spoink.png">
