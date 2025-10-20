@@ -185,9 +185,24 @@ button {
 <td>Pikipek</td>
 </tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Blue</td>
-<td>?</td>
-</tr></table></div>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td style="width: 160px" class="searchValue"><b>Blue</b></td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/azurill.png">
+<br></img>Azurill</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/wooper.png">
+<br></img>Wooper</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/shinx.png">
+<br></img>Shinx</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/spheal.png">
+<br></img>Spheal</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/phanpy.png">
+<br></img>Phanpy</td>
+<td style="width: 160px"></td></tr><tr><td></td>
+<td><img src="https://play.pokemonshowdown.com/sprites/dex/cosmog.png"></img><br>Cosmog</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/dex/piplup.png"></img><br>Piplup</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/dex/swablu.png"></img><br>Swablu</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/dex/amaura.png"></img><br>Amaura</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/dex/surskit.png"></img><br>Surskit</td>
+<td></td></tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Brown</td>
 <td>?</td>
@@ -201,9 +216,24 @@ button {
 <td>?</td>
 </tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Pink</td>
-<td>?</td>
-</tr></table></div>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td style="width: 160px" class="searchValue"><b>Pink</b></td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/cleffa.png">
+<br></img>Cleffa</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/deerling.png">
+<br></img>Deerling</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/skitty.png">
+<br></img>Skitty</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/cherrim-sunshine.png">
+<br></img>Cherrim-Sunshine</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/munna.png">
+<br></img>Munna</td>
+<td style="width: 160px"></td></tr><tr><td></td>
+<td><img src="https://play.pokemonshowdown.com/sprites/dex/hatenna.png"></img><br>Hatenna</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/dex/hoppip.png"></img><br>Hoppip</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/dex/jigglypuff.png"></img><br>Jigglypuff</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/dex/mesprit.png"></img><br>Mesprit</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/dex/corsola.png"></img><br>Corsola</td>
+<td></td></tr></table></div>
 
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Purple</td>
