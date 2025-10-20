@@ -210,7 +210,7 @@ button {
 <td>?</td>
 </tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 160px" class="searchValue"><b>Red</b></td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td style="width: 160px" class="searchValue"><b>Red</b></td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/fennekin.png">
 <br></img>Fennekin</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/deerling-autumn.png">
@@ -221,13 +221,13 @@ button {
 <br></img>Litten</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/torchic.png">
 <br></img>Torchic</td>
-</tr><tr><td></td>
+<td style="width: 160px"></td></tr><tr><td></td>
 <td><img src="https://play.pokemonshowdown.com/sprites/dex/kricketot.png"></img><br>Kricketot</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/dex/wurmple.png"></img><br>Wurmple</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/dex/flareon.png"></img><br>Flareon</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/dex/vivillon-ocean.png"></img><br>Vivillon-Ocean</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/dex/porygon2.png"></img><br>Porygon2</td>
-</tr></table></div>
+<td></td></tr></table></div>
 
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">White</td>
