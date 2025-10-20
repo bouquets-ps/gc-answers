@@ -180,46 +180,46 @@ button {
 
 <div id = "container">
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Black</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Black</td>
 <td>Pikipek</td>
-</tr></table></div><br><br>
+</tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Blue</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Blue</td>
 <td>?</td>
-</tr></table></div><br><br>
+</tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Brown</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Brown</td>
 <td>?</td>
-</tr></table></div><br><br>
+</tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Gray</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Gray</td>
 <td>?</td>
-</tr></table></div><br><br>
+</tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Green</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Green</td>
 <td>?</td>
-</tr></table></div><br><br>
+</tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Pink</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Pink</td>
 <td>?</td>
-</tr></table></div><br><br>
+</tr></table></div>
 
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Purple</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Purple</td>
 <td>?</td>
-</tr></table></div><br><br>
+</tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Red</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Red</td>
 <td>?</td>
-</tr></table></div><br><br>
+</tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">White</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">White</td>
 <td>?</td>
-</tr></table></div><br><br>
+</tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Yellow</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Yellow</td>
 <td>?</td>
-</tr></table></div><br><br>
+</tr></table></div>
 
 </div>
 
