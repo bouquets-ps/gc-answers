@@ -236,9 +236,25 @@ button {
 <td></td></tr></table></div>
 
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Purple</td>
-<td>?</td>
-</tr></table></div>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td style="width: 160px" class="searchValue"><b>Purple</b></td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/bounsweet.png">
+<br></img>Bounsweet</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/goomy.png">
+<br></img>Goomy</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/drifloon.png">
+<br></img>Drifloon</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/morelull.png">
+<br></img>Morelull</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/noibat.png">
+<br></img>Noibat</td>
+<td style="width: 160px"></td></tr><tr><td></td>
+<td><img src="https://play.pokemonshowdown.com/sprites/gen5/espeon.png"></img><br>Espeon</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/gen5/substitute.png"></img><br>Vivillon-Elegant</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/gen5/delcatty.png"></img><br>Delcatty</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/gen5/indeedee-f.png"></img><br>Indeedee-F</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/gen5/tapufini.png"></img><br>tapufini</td>
+<td></td></tr></table></div>
+
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td style="width: 160px" class="searchValue"><b>Red</b></td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/fennekin.png">
@@ -255,7 +271,7 @@ button {
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/kricketot.png"></img><br>Kricketot</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/wurmple.png"></img><br>Wurmple</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/flareon.png"></img><br>Flareon</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/vivillon-ocean.png"></img><br>Vivillon-Ocean</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/gen5/substitute.png"></img><br>Vivillon-Ocean</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/porygon2.png"></img><br>Porygon2</td>
 <td></td></tr></table></div>
 
