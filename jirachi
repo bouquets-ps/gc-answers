@@ -57,6 +57,9 @@ document.getElementById("searchBar").addEventListener("input", function() {
 
 </script>
 <style>
+td {
+  text-align: center;
+}
 body {
   font-family: "Quicksand", sans-serif;
   padding: 30px;
@@ -228,17 +231,17 @@ button {
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 160px" class="searchValue">Red</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/fennekin.png"></img>Fennekin</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/deerling-autumn.png"></img>Deerling-Autumn</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/fletchling.png"></img>Fletchling</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/litten.png"></img>Litten</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/torchic.png"></img>Torchic</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/fennekin.png"><br></img>Fennekin</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/deerling-autumn.png"><br></img>Deerling-Autumn</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/fletchling.png"><br></img>Fletchling</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/litten.png"><br></img>Litten</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/dex/torchic.png"><br></img>Torchic</td>
 </tr><tr><td></td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/kricketot.png"></img>Kricketot</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/wurmple.png"></img>Wurmple</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/flareon.png"></img>Flareon</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/vivillon-ocean.png"></img>Vivillon-Ocean</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/porygon2.png"></img>Porygon2</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/dex/kricketot.png"></img><br>Kricketot</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/dex/wurmple.png"></img><br>Wurmple</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/dex/flareon.png"></img><br>Flareon</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/dex/vivillon-ocean.png"></img><br>Vivillon-Ocean</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/dex/porygon2.png"></img><br>Porygon2</td>
 </tr></table></div>
 
 
