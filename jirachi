@@ -177,3 +177,10 @@ button {
 <br><br>
 
 <div id = "container">
+
+<div class="searchValue">Black</div>
+
+<div class="searchValue">White</div>
+
+</div>
+
