@@ -178,12 +178,14 @@ button {
 
 <div id = "container">
 
+<div style="display: block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; width: 95%" class="infobox">
+<div style="display: inline-block; border: 0px solid #68a ; border-radius: 5px ; padding: 5px; width: 15%"><strong class="searchValue">Black</strong></div>
+<div style="display: inline-block; border: 0px solid #68a ; border-radius: 5px ; padding: 55px; width: 75%">Cosmog</div>
+</div>
 
-<div class="infobox"><strong class="searchValue">Black</strong></div>
-
-<div class="infobox">
-<div><strong class="searchValue">Blue</strong></div>
-<div>Cosmog</div>
+<div style="display: block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; width: 95%" class="infobox">
+<div style="display: inline-block; border: 0px solid #68a ; border-radius: 5px ; padding: 5px; width: 15%"><strong class="searchValue">Blue</strong></div>
+<div style="display: inline-block; border: 0px solid #68a ; border-radius: 5px ; padding: 55px; width: 75%">Cosmog</div>
 </div>
 
 <strong class="searchValue">Brown</strong>
