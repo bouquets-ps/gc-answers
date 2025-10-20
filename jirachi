@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html data-theme="dark">
 <head>
-<title>shaymin village | cute answers | jirachi</title>
+<title>sky peak | cute answers | jirachi</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
 <link rel="icon" href="https://www.serebii.net/itemdex/sprites/gracidea.png" type="image/x-icon">
 <script>
@@ -154,7 +154,7 @@ button {
 </head>
 <body>
 <center>
-<h1><table><tr><td><a style="text-decoration:none; color: #8ebccd" href="https://rentry.co/star-cave">shaymin village</a> 💐 <span style="color: #8ebccd">cute answers</span></td></tr></table></h1>
+<h1><table><tr><td><a style="text-decoration:none; color: #8ebccd" href="https://rentry.co/star-cave">sky peak</a> 💐 <span style="color: #8ebccd">cute answers</span></td></tr></table></h1>
 <h3><span style="letter-spacing:5px;"><table><tr>
 <td>JIRACHI</td>
 <td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-answers/blob/main/unown">UNOWN</a></td>
@@ -210,7 +210,21 @@ button {
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Red</td>
-<td>?</td>
+<td>Fennekin, Deerling-Autumn, Fletchling, Litten, Torchic, Kricketot, Wurmple, Flareon, Vivillon-Ocean, Porygon2</td>
+</tr></table></div>
+
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Red</td>
+<td>Fennekin</td>
+<td>Deerling-Autumn</td>
+<td>Fletchling</td>
+<td>Litten</td>
+<td>Torchic</td>
+</tr><tr><td></td>
+<td>Kricketot</td>
+<td>Wurmple</td>
+<td>Flareon</td>
+<td>Vivillon-Ocean</td>
+<td>Porygon2</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">White</td>
