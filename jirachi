@@ -178,25 +178,25 @@ button {
 
 <div id = "container">
 
-<span class="searchValue">Black</span>
+<div><strong class="searchValue">Black</strong></div>
 
-<span class="searchValue">Blue</span>
+<span><strong class="searchValue">Blue</strong></span>
 
-<span class="searchValue">Brown</span>
+<strong class="searchValue">Brown</strong>
 
-<span class="searchValue">Gray</span>
+<strong class="searchValue">Gray</strong>
 
-<span class="searchValue">Green</span>
+<strong class="searchValue">Green</strong>
 
-<span class="searchValue">Pink</span>
+<strong class="searchValue">Pink</strong>
 
-<span class="searchValue">Purple</span>
+<strong class="searchValue">Purple</strong>
 
-<span class="searchValue">Red</span>
+<strong class="searchValue">Red</strong>
 
-<span class="searchValue">White</span>
+<strong class="searchValue">White</strong>
 
-<span class="searchValue">Yellow</span>
+<strong class="searchValue">Yellow</strong>
 
 </div>
 
