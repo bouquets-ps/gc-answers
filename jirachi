@@ -178,6 +178,8 @@ button {
 
 <div id = "container">
 
+<span><table><tr><td><strong class="searchValue">Black</strong></td></tr></table></span>
+
 <div><strong class="searchValue">Black</strong></div>
 
 <span><strong class="searchValue">Blue</strong></span>
