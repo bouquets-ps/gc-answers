@@ -310,9 +310,24 @@ button {
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/mareep.png"></img><br>Mareep</td>
 <td></td></tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table><tr><td style="width: 100px" class="searchValue">Yellow</td>
-<td>?</td>
-</tr></table></div>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td style="width: 160px" class="searchValue"><b>Yellow</b></td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/dedenne.png">
+<br></img>Dedenne</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/morpeko.png">
+<br></img>Morpeko</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/sewaddle.png">
+<br></img>Seeaddle</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/chingling.png">
+<br></img>Chingling</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/jirachi.png">
+<br></img>Jirachi</td>
+<td style="width: 160px"></td></tr><tr><td></td>
+<td><img src="https://play.pokemonshowdown.com/sprites/gen5/pichu.png"></img><br>Pichu</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/gen5/helioptile.png"></img><br>Helioptile</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/gen5/combee.png"></img><br>Combee</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/gen5/ampharos.png"></img><br>Ampharos</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/gen5/ribombee.png"></img><br>Ribombee</td>
+<td></td></tr></table></div>
 
 </div>
 
