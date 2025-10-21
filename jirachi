@@ -181,7 +181,7 @@ button {
 
 <div id = "container">
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td colspan="2" style="width: 160px" class="searchValue"><b>Black</b></td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Black</b></td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/pikipek.png">
 <br></img>Pikipek</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/spoink.png">
@@ -192,7 +192,7 @@ button {
 <br></img>Shuppet</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/chatot.png">
 <br></img>Chatot</td>
-<td colspan="2" style="width: 160px"></td></tr><tr>
+<td rowspan="2" style="width: 160px"></td></tr><tr>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/murkrow.png"></img><br>Murkrow</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/munchlax.png"></img><br>Munchlax</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/blitzle.png"></img><br>Blitzle</td>
@@ -200,7 +200,7 @@ button {
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/pyukumuku.png"></img><br>Pyukumuku</td>
 </tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td colspan="2" style="width: 160px" class="searchValue"><b>Blue</b></td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Blue</b></td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/azurill.png">
 <br></img>Azurill</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/wooper.png">
@@ -211,7 +211,7 @@ button {
 <br></img>Spheal</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/phanpy.png">
 <br></img>Phanpy</td>
-<td colspan="2" style="width: 160px"></td></tr><tr>
+<td rowspan="2" style="width: 160px"></td></tr><tr>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/cosmog.png"></img><br>Cosmog</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/piplup.png"></img><br>Piplup</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/swablu.png"></img><br>Swablu</td>
@@ -219,7 +219,7 @@ button {
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/surskit.png"></img><br>Surskit</td>
 </tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td colspan="2" style="width: 160px" class="searchValue"><b>Brown</b></td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Brown</b></td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/buneary.png">
 <br></img>Buneary</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/deerling-winter.png">
@@ -230,7 +230,7 @@ button {
 <br></img>Furret</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/teddiursa.png">
 <br></img>Teddiursa</td>
-<td colspan="2" style="width: 160px"></td></tr><tr>
+<td rowspan="2" style="width: 160px"></td></tr><tr>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/pumpkaboo.png"></img><br>Pumpkaboo</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/eevee.png"></img><br>Eevee</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/bunnelby.png"></img><br>Bunnelby</td>
@@ -238,7 +238,7 @@ button {
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/wooper-paldea.png"></img><br>Wooper-Paldea</td>
 </tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td colspan="2" style="width: 160px" class="searchValue"><b>Gray</b></td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Gray</b></td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/espurr.png">
 <br></img>Espurr</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/minccino.png">
@@ -249,7 +249,7 @@ button {
 <br></img>Togedemaru</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/misdreavus.png">
 <br></img>Misdreavus</td>
-<td colspan="2" style="width: 160px"></td></tr><tr>
+<td rowspan="2" style="width: 160px"></td></tr><tr>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/zorua-hisui.png"></img><br>Zorua-Hisui</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/shieldon.png"></img><br>Shieldok</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/poochyena.png"></img><br>Poochyena</td>
@@ -257,7 +257,7 @@ button {
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/glameow.png"></img><br>Glameow</td>
 </tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td colspan="2" style="width: 160px" class="searchValue"><b>Green</b></td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Green</b></td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/shaymin.png">
 <br></img>Shaymin</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/budew.png">
@@ -268,7 +268,7 @@ button {
 <br></img>Lotad</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/sprigatito.png">
 <br></img>Sprigatito</td>
-<td colspan="2" style="width: 160px"></td></tr><tr>
+<td rowspan="2" style="width: 160px"></td></tr><tr>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/turtwig.png"></img><br>Turtwig</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/swadloon.png"></img><br>Swadloon</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/gossifleur.png"></img><br>Gossifleur</td>
@@ -276,7 +276,7 @@ button {
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/skiploom.png"></img><br>Skiploom</td>
 </tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td colspan="2" style="width: 160px" class="searchValue"><b>Pink</b></td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Pink</b></td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/cleffa.png">
 <br></img>Cleffa</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/deerling.png">
@@ -287,7 +287,7 @@ button {
 <br></img>Cherrim-Sunshine</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/munna.png">
 <br></img>Munna</td>
-<td colspan="2" style="width: 160px"></td></tr><tr>
+<td rowspan="2" style="width: 160px"></td></tr><tr>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/hatenna.png"></img><br>Hatenna</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/hoppip.png"></img><br>Hoppip</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/jigglypuff.png"></img><br>Jigglypuff</td>
@@ -296,7 +296,7 @@ button {
 </tr></table></div>
 
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td colspan="2" style="width: 160px" class="searchValue"><b>Purple</b></td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Purple</b></td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/bounsweet.png">
 <br></img>Bounsweet</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/goomy.png">
@@ -307,7 +307,7 @@ button {
 <br></img>Morelull</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/noibat.png">
 <br></img>Noibat</td>
-<td colspan="2" style="width: 160px"></td></tr><tr>
+<td rowspan="2" style="width: 160px"></td></tr><tr>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/espeon.png"></img><br>Espeon</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/substitute.png"></img><br>Vivillon-Elegant</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/delcatty.png"></img><br>Delcatty</td>
@@ -316,7 +316,7 @@ button {
 </tr></table></div>
 
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td colspan="2" style="width: 160px" class="searchValue"><b>Red</b></td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Red</b></td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/fennekin.png">
 <br></img>Fennekin</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/deerling-autumn.png">
@@ -327,7 +327,7 @@ button {
 <br></img>Litten</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/torchic.png">
 <br></img>Torchic</td>
-<td colspan="2" style="width: 160px"></td></tr><tr>
+<td rowspan="2" style="width: 160px"></td></tr><tr>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/kricketot.png"></img><br>Kricketot</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/wurmple.png"></img><br>Wurmple</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/flareon.png"></img><br>Flareon</td>
@@ -336,7 +336,7 @@ button {
 </tr></table></div>
 
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td colspan="2" style="width: 160px" class="searchValue"><b>White</b></td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>White</b></td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/flabebe.png">
 <br></img>Flabebe</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/vulpix-alola.png">
@@ -347,7 +347,7 @@ button {
 <br></img>Swirlix</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/wooloo.png">
 <br></img>Wooloo</td>
-<td colspan="2" style="width: 160px"></td></tr><tr>
+<td rowspan="2" style="width: 160px"></td></tr><tr>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/ponyta-galar.png"></img><br>Ponyta-Galar</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/litwick.png"></img><br>Litwick</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/togepi.png"></img><br>Togepi</td>
@@ -355,7 +355,7 @@ button {
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/mareep.png"></img><br>Mareep</td>
 </tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td colspan="2" style="width: 160px" class="searchValue"><b>Yellow</b></td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Yellow</b></td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/dedenne.png">
 <br></img>Dedenne</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/morpeko.png">
@@ -366,7 +366,7 @@ button {
 <br></img>Chingling</td>
 <td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/jirachi.png">
 <br></img>Jirachi</td>
-<td colspan="2" style="width: 160px"></td></tr><tr>
+<td rowspan="2" style="width: 160px"></td></tr><tr>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/pichu.png"></img><br>Pichu</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/helioptile.png"></img><br>Helioptile</td>
 <td><img src="https://play.pokemonshowdown.com/sprites/gen5/combee.png"></img><br>Combee</td>
