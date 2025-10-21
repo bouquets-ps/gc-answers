@@ -182,32 +182,40 @@ button {
 </div>
 <br><br>
 
+</center>
+
 <div id = "container">
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td style="width: 160px" class="searchValue"><b>Black</b></td>
-<td style="width: 160px">
-<img src="https://play.pokemonshowdown.com/sprites/ani/pikipek.gif"></img><br>Pikipek</td>
-<td style="width: 160px">
-<img src="https://play.pokemonshowdown.com/sprites/ani/spoink.gif"></img><br>Spoink</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Black</b></td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/ani/pikipek.gif"></img></td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/ani/spoink.gif"></img></td>
+</tr><tr>
+<td>Pikipek</td>
+<td>Spoink</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Blue</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/azurill.png">
-<br></img>Azurill</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/wooper.png">
-<br></img>Wooper</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/shinx.png">
-<br></img>Shinx</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/spheal.png">
-<br></img>Spheal</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/phanpy.png">
-<br></img>Phanpy</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/cosmog.png"></img><br>Cosmog</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/piplup.png"></img><br>Piplup</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/swablu.png"></img><br>Swablu</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/amaura.png"></img><br>Amaura</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/surskit.png"></img><br>Surskit</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/ani/azurill.gif"></img></td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/ani/wooper.gif"></img></td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/ani/shinx.gif"></img></td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/ani/spheal.gif"></img></td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/ani/phanpy.gif"></img></td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/ani/cosmog.gif"></img></td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/ani/piplup.gif"></img></td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/ani/swablu.gif"></img></td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/ani/amaura.gif"></img></td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/ani/surskit.gif"></img></td>
+</tr><tr>
+<td>Azurill</td>
+<td>Wooper</td>
+<td>Shinx</td>
+<td>Spheal</td>
+<td>Phanpy</td>
+<td>Cosmog</td>
+<td>Piplup</td>
+<td>Swablu</td>
+<td>Amaura</td>
+<td>Surskit</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Brown</b></td>
