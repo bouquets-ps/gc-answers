@@ -182,22 +182,22 @@ button {
 <div id = "container">
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Adamant</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/pikipek.png">
-<br></img>Pikipek</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/spoink.png">
-<br></img>Spoink</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/scatterbug.png">
-<br></img>Scatterbug</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/shuppet.png">
-<br></img>Shuppet</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/chatot.png">
-<br></img>Chatot</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/togedemaru.png">
+<br></img>Togedemaru</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/wurmple.png">
+<br></img>Wurmple</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/lillipup.png">
+<br></img>Lillipup</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/rufflet.png">
+<br></img>Rufflet</td>
+<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/stufful.png">
+<br></img>Stufful</td>
 <td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/murkrow.png"></img><br>Murkrow</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/munchlax.png"></img><br>Munchlax</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/blitzle.png"></img><br>Blitzle</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/umbreon.png"></img><br>Umbreon</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/pyukumuku.png"></img><br>Pyukumuku</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/gen5/poochyena.png"></img><br>Poochyena</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/gen5/breloom.png"></img><br>Breloom</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/gen5/anorith.png"></img><br>Anorith</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/gen5/rockruff.png"></img><br>Rockruff</td>
+<td><img src="https://play.pokemonshowdown.com/sprites/gen5/cufant.png"></img><br>Cufant</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Bold</b></td>
