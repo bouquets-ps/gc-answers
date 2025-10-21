@@ -57,6 +57,9 @@ document.getElementById("searchBar").addEventListener("input", function() {
 
 </script>
 <style>
+div {
+  overflow: scroll;
+}
 td {
   text-align: center;
 }
@@ -181,23 +184,11 @@ button {
 
 <div id = "container">
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Black</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/pikipek.png">
-<br></img>Pikipek</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/spoink.png">
-<br></img>Spoink</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/scatterbug.png">
-<br></img>Scatterbug</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/shuppet.png">
-<br></img>Shuppet</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/chatot.png">
-<br></img>Chatot</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/murkrow.png"></img><br>Murkrow</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/munchlax.png"></img><br>Munchlax</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/blitzle.png"></img><br>Blitzle</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/umbreon.png"></img><br>Umbreon</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/pyukumuku.png"></img><br>Pyukumuku</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td style="width: 160px" class="searchValue"><b>Black</b></td>
+<td style="width: 160px">
+<img src="https://play.pokemonshowdown.com/sprites/ani/pikipek.gif"></img><br>Pikipek</td>
+<td style="width: 160px">
+<img src="https://play.pokemonshowdown.com/sprites/ani/spoink.gif"></img><br>Spoink</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Blue</b></td>
