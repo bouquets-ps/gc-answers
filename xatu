@@ -57,6 +57,23 @@ document.getElementById("searchBar").addEventListener("input", function() {
 
 </script>
 <style>
+#whvalue {
+  width: 100px;
+}
+#htvalue {
+  height: 100px;
+  position: relative;
+}
+#imgvalue {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  margin-bottom: 5px;
+}
+#divvalue {
+  overflow: scroll;
+}
 td {
   text-align: center;
 }
@@ -179,392 +196,33 @@ button {
 </div>
 <br><br>
 
+</center>
+
 <div id = "container">
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Adamant</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/togedemaru.png">
-<br></img>Togedemaru</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/wurmple.png">
-<br></img>Wurmple</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/lillipup.png">
-<br></img>Lillipup</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/rufflet.png">
-<br></img>Rufflet</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/stufful.png">
-<br></img>Stufful</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/poochyena.png"></img><br>Poochyena</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/breloom.png"></img><br>Breloom</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/anorith.png"></img><br>Anorith</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/rockruff.png"></img><br>Rockruff</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/cufant.png"></img><br>Cufant</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Adamant</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/togedemaru.gif" id="imgvalue"></img></div>Togedemaru</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/wurmple.gif" id="imgvalue"></img></div>Wurmple</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/lillipup.gif" id="imgvalue"></img></div>Lillipup</td>
 </tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Bold</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/azurill.png">
-<br></img>Azurill</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/wooper.png">
-<br></img>Wooper</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/shinx.png">
-<br></img>Shinx</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/spheal.png">
-<br></img>Spheal</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/phanpy.png">
-<br></img>Phanpy</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/cosmog.png"></img><br>Cosmog</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/piplup.png"></img><br>Piplup</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/swablu.png"></img><br>Swablu</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/amaura.png"></img><br>Amaura</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/surskit.png"></img><br>Surskit</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Careful</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" id="imgvalue"></img></div>Eevee</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/swablu.gif" id="imgvalue"></img></div>Swablu</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/hoppip.gif" id="imgvalue"></img></div>Hoppip</td>
 </tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Brave</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/buneary.png">
-<br></img>Buneary</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/deerling-winter.png">
-<br></img>Deerling-Winter</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/rowlet.png">
-<br></img>Rowlet</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/furret.png">
-<br></img>Furret</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/teddiursa.png">
-<br></img>Teddiursa</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/pumpkaboo.png"></img><br>Pumpkaboo</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/eevee.png"></img><br>Eevee</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/bunnelby.png"></img><br>Bunnelby</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/swinub.png"></img><br>Swinub</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/wooper-paldea.png"></img><br>Wooper-Paldea</td>
-</tr></table></div>
-
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Calm</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/espurr.png">
-<br></img>Espurr</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/minccino.png">
-<br></img>Minccino</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/pidove.png">
-<br></img>Pidove</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/togedemaru.png">
-<br></img>Togedemaru</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/misdreavus.png">
-<br></img>Misdreavus</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/zorua-hisui.png"></img><br>Zorua-Hisui</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/shieldon.png"></img><br>Shieldok</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/poochyena.png"></img><br>Poochyena</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/magnemite.png"></img><br>Magnemite</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/glameow.png"></img><br>Glameow</td>
-</tr></table></div>
-
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Careful</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/eevee.png">
-<br></img>Eevee</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/swablu.png">
-<br></img>Swablu</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/hoppip.png">
-<br></img>Hoppip</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/substitute.png">
-<br></img>None</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/substitute.png">
-<br></img>None</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/substitute.png"></img><br>None</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/substitute.png"></img><br>None</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/substitute.png"></img><br>None</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/substitute.png"></img><br>None</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/substitute.png"></img><br>None</td>
-</tr></table></div>
-
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Gentle</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/cleffa.png">
-<br></img>Cleffa</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/deerling.png">
-<br></img>Deerling</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/skitty.png">
-<br></img>Skitty</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/cherrim-sunshine.png">
-<br></img>Cherrim-Sunshine</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/munna.png">
-<br></img>Munna</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/hatenna.png"></img><br>Hatenna</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/hoppip.png"></img><br>Hoppip</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/jigglypuff.png"></img><br>Jigglypuff</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/mesprit.png"></img><br>Mesprit</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/corsola.png"></img><br>Corsola</td>
-</tr></table></div>
-
-
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Hasty</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/bounsweet.png">
-<br></img>Bounsweet</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/goomy.png">
-<br></img>Goomy</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/drifloon.png">
-<br></img>Drifloon</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/morelull.png">
-<br></img>Morelull</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/noibat.png">
-<br></img>Noibat</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/espeon.png"></img><br>Espeon</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/substitute.png"></img><br>Vivillon-Elegant</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/delcatty.png"></img><br>Delcatty</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/indeedee-f.png"></img><br>Indeedee-F</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/tapufini.png"></img><br>tapufini</td>
-</tr></table></div>
-
-
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Impish</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/fennekin.png">
-<br></img>Fennekin</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/deerling-autumn.png">
-<br></img>Deerling-Autumn</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/fletchling.png">
-<br></img>Fletchling</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/litten.png">
-<br></img>Litten</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/torchic.png">
-<br></img>Torchic</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/kricketot.png"></img><br>Kricketot</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/wurmple.png"></img><br>Wurmple</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/flareon.png"></img><br>Flareon</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/substitute.png"></img><br>Vivillon-Ocean</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/porygon2.png"></img><br>Porygon2</td>
-</tr></table></div>
-
-
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Jolly</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/deerling.png">
-<br></img>Deerling</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/buneary.png">
-<br></img>Buneary</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/skitty.png">
-<br></img>Skitty</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/pachirisu.png">
-<br></img>Pachirisu</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/cosmog.png">
-<br></img>Cosmog</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/sprigatito.png"></img><br>Sprigatito</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/furret.png"></img><br>Furret</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/finneon.png"></img><br>Finneon</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/bunnelby.png"></img><br>Bunnelby</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/combee.png"></img><br>Combee</td>
-</tr></table></div>
-
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Lax</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/dedenne.png">
-<br></img>Dedenne</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/morpeko.png">
-<br></img>Morpeko</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/sewaddle.png">
-<br></img>Seeaddle</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/chingling.png">
-<br></img>Chingling</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/jirachi.png">
-<br></img>Jirachi</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/pichu.png"></img><br>Pichu</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/helioptile.png"></img><br>Helioptile</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/combee.png"></img><br>Combee</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/ampharos.png"></img><br>Ampharos</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/ribombee.png"></img><br>Ribombee</td>
-</tr></table></div>
-
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Lonely</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/pikipek.png">
-<br></img>Pikipek</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/spoink.png">
-<br></img>Spoink</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/scatterbug.png">
-<br></img>Scatterbug</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/shuppet.png">
-<br></img>Shuppet</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/chatot.png">
-<br></img>Chatot</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/murkrow.png"></img><br>Murkrow</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/munchlax.png"></img><br>Munchlax</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/blitzle.png"></img><br>Blitzle</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/umbreon.png"></img><br>Umbreon</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/pyukumuku.png"></img><br>Pyukumuku</td>
-</tr></table></div>
-
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Mild</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/azurill.png">
-<br></img>Azurill</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/wooper.png">
-<br></img>Wooper</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/shinx.png">
-<br></img>Shinx</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/spheal.png">
-<br></img>Spheal</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/phanpy.png">
-<br></img>Phanpy</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/cosmog.png"></img><br>Cosmog</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/piplup.png"></img><br>Piplup</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/swablu.png"></img><br>Swablu</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/amaura.png"></img><br>Amaura</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/surskit.png"></img><br>Surskit</td>
-</tr></table></div>
-
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Modest</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/buneary.png">
-<br></img>Buneary</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/deerling-winter.png">
-<br></img>Deerling-Winter</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/rowlet.png">
-<br></img>Rowlet</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/furret.png">
-<br></img>Furret</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/teddiursa.png">
-<br></img>Teddiursa</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/pumpkaboo.png"></img><br>Pumpkaboo</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/eevee.png"></img><br>Eevee</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/bunnelby.png"></img><br>Bunnelby</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/swinub.png"></img><br>Swinub</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/wooper-paldea.png"></img><br>Wooper-Paldea</td>
-</tr></table></div>
-
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Naive</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/espurr.png">
-<br></img>Espurr</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/minccino.png">
-<br></img>Minccino</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/pidove.png">
-<br></img>Pidove</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/togedemaru.png">
-<br></img>Togedemaru</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/misdreavus.png">
-<br></img>Misdreavus</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/zorua-hisui.png"></img><br>Zorua-Hisui</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/shieldon.png"></img><br>Shieldok</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/poochyena.png"></img><br>Poochyena</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/magnemite.png"></img><br>Magnemite</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/glameow.png"></img><br>Glameow</td>
-</tr></table></div>
-
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Naughty</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/shaymin.png">
-<br></img>Shaymin</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/budew.png">
-<br></img>Budew</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/deerling-summer.png">
-<br></img>Deerling-Summer</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/lotad.png">
-<br></img>Lotad</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/sprigatito.png">
-<br></img>Sprigatito</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/turtwig.png"></img><br>Turtwig</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/swadloon.png"></img><br>Swadloon</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/gossifleur.png"></img><br>Gossifleur</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/whimsicott.png"></img><br>Whimsicott</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/skiploom.png"></img><br>Skiploom</td>
-</tr></table></div>
-
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Quiet</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/cleffa.png">
-<br></img>Cleffa</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/deerling.png">
-<br></img>Deerling</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/skitty.png">
-<br></img>Skitty</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/cherrim-sunshine.png">
-<br></img>Cherrim-Sunshine</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/munna.png">
-<br></img>Munna</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/hatenna.png"></img><br>Hatenna</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/hoppip.png"></img><br>Hoppip</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/jigglypuff.png"></img><br>Jigglypuff</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/mesprit.png"></img><br>Mesprit</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/corsola.png"></img><br>Corsola</td>
-</tr></table></div>
-
-
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Rash</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/bounsweet.png">
-<br></img>Bounsweet</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/goomy.png">
-<br></img>Goomy</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/drifloon.png">
-<br></img>Drifloon</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/morelull.png">
-<br></img>Morelull</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/noibat.png">
-<br></img>Noibat</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/espeon.png"></img><br>Espeon</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/substitute.png"></img><br>Vivillon-Elegant</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/delcatty.png"></img><br>Delcatty</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/indeedee-f.png"></img><br>Indeedee-F</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/tapufini.png"></img><br>tapufini</td>
-</tr></table></div>
-
-
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Relaxed</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/fennekin.png">
-<br></img>Fennekin</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/deerling-autumn.png">
-<br></img>Deerling-Autumn</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/fletchling.png">
-<br></img>Fletchling</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/litten.png">
-<br></img>Litten</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/torchic.png">
-<br></img>Torchic</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/kricketot.png"></img><br>Kricketot</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/wurmple.png"></img><br>Wurmple</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/flareon.png"></img><br>Flareon</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/substitute.png"></img><br>Vivillon-Ocean</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/porygon2.png"></img><br>Porygon2</td>
-</tr></table></div>
-
-
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Sassy</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/flabebe.png">
-<br></img>Flabebe</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/vulpix-alola.png">
-<br></img>Vulpix-Alola</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/pachirisu.png">
-<br></img>Pachirisu</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/swirlix.png">
-<br></img>Swirlix</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/wooloo.png">
-<br></img>Wooloo</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/ponyta-galar.png"></img><br>Ponyta-Galar</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/litwick.png"></img><br>Litwick</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/togepi.png"></img><br>Togepi</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/emolga.png"></img><br>Emolga</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/mareep.png"></img><br>Mareep</td>
-</tr></table></div>
-
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Timid</b></td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/dedenne.png">
-<br></img>Dedenne</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/morpeko.png">
-<br></img>Morpeko</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/sewaddle.png">
-<br></img>Seeaddle</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/chingling.png">
-<br></img>Chingling</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/jirachi.png">
-<br></img>Jirachi</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/pichu.png"></img><br>Pichu</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/helioptile.png"></img><br>Helioptile</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/combee.png"></img><br>Combee</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/ampharos.png"></img><br>Ampharos</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/ribombee.png"></img><br>Ribombee</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Jolly</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/deerling.gif" id="imgvalue"></img></div>Deerling</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/buneary.gif" id="imgvalue"></img></div>Buneary</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/skitty.gif" id="imgvalue"></img></div>Skitty</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/pachirisu.gif" id="imgvalue"></img></div>Pachirisu</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/cosmog.gif" id="imgvalue"></img></div>Cosmog</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/sprigatito.gif" id="imgvalue"></img></div>Sprigatito</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/furret.gif" id="imgvalue"></img></div>Furret</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/finneon.gif" id="imgvalue"></img></div>Finneon</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/bunnelby.gif" id="imgvalue"></img></div>Bunnelby</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/combee.gif" id="imgvalue"></img></div>Combee</td>
 </tr></table></div>
 
 </div>
