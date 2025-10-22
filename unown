@@ -196,6 +196,8 @@ button {
 </div>
 <br><br>
 
+</center>
+
 <div id = "container">
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>A</b></div></td>
@@ -206,6 +208,19 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/aurorus.gif" id="imgvalue"></img></div>Aurorus</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/azurill.gif" id="imgvalue"></img></div>Azurill</td>
 </tr></table></div>
+
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>B</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/bayleef.gif" id="imgvalue"></img></div>Bayleef</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/bidoof.gif" id="imgvalue"></img></div>Bidoof</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/blissey.gif" id="imgvalue"></img></div>Blissey</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/bounsweet.gif" id="imgvalue"></img></div>Bounsweet</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/brionne.gif" id="imgvalue"></img></div>Brionne</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/budew.gif" id="imgvalue"></img></div>Budew</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/buizel.gif" id="imgvalue"></img></div>Buizel</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/buneary.gif" id="imgvalue"></img></div>Buneary</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/bunnelby.gif" id="imgvalue"></img></div>Bunnelby</td>
+</tr></table></div>
+
 
 
 </div>
