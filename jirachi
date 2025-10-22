@@ -239,21 +239,6 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/zorua-hisui.gif" id="imgvalue"></img></div>ZoruaHisui</td>
 </tr></table></div>
 
-<br></img>Deerling-Autumn</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/fletchling.png">
-<br></img>Fletchling</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/litten.png">
-<br></img>Litten</td>
-<td style="width: 160px"><img src="https://play.pokemonshowdown.com/sprites/gen5/torchic.png">
-<br></img>Torchic</td>
-<td rowspan="2" style="width: 160px"></td></tr><tr>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/kricketot.png"></img><br>Kricketot</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/wurmple.png"></img><br>Wurmple</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/flareon.png"></img><br>Flareon</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/substitute.png"></img><br>Vivillon-Ocean</td>
-<td><img src="https://play.pokemonshowdown.com/sprites/gen5/porygon2.png"></img><br>Porygon2</td>
-</tr></table></div>
-
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Green</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/shaymin.gif" id="imgvalue"></img></div>Shaymin</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/budew.gif" id="imgvalue"></img></div>Budew</td>
@@ -291,7 +276,7 @@ button {
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Red</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/fennekin.gif" id="imgvalue"></img></div>Fennekin</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/deerling.gif" id="imgvalue"></img></div>DeerlingAutumn</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/deerling-autumn.gif" id="imgvalue"></img></div>DeerlingAutumn</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/fletchling.gif" id="imgvalue"></img></div>Fletchling</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/torchic.gif" id="imgvalue"></img></div>Torchic</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/litten.gif" id="imgvalue"></img></div>Litten</td>
@@ -319,7 +304,7 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/chingling.gif" id="imgvalue"></img></div>Chingling</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/jirachi.gif" id="imgvalue"></img></div>Jirachi</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/pichu.gif" id="imgvalue"></img></div>Pichu</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/heliopitle.gif" id="imgvalue"></img></div>Heliopitle</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/helioptile.gif" id="imgvalue"></img></div>Heliopitle</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/combee.gif" id="imgvalue"></img></div>Combee</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/ampharos.gif" id="imgvalue"></img></div>Ampharos</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/cutiefly.gif" id="imgvalue"></img></div>Cutiefly</td>
