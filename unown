@@ -281,4 +281,31 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/jirachi.gif" id="imgvalue"></img></div>Jirachi</td>
 </tr></table></div>
 
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>K</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/komala.gif" id="imgvalue"></img></div>Komala</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/kricketot.gif" id="imgvalue"></img></div>Kricketot</td>
+</tr></table></div>
+
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>L</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/litwick.gif" id="imgvalue"></img></div>Litwick</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/litten.gif" id="imgvalue"></img></div>Litten</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/lotad.gif" id="imgvalue"></img></div>Lotad</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/lillipup.gif" id="imgvalue"></img></div>Lillipup</td>
+</tr></table></div>
+
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>M</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/manaphy.gif" id="imgvalue"></img></div>Manaphy</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mantyke.gif" id="imgvalue"></img></div>Mantyke</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mareep.gif" id="imgvalue"></img></div>Mareep</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/marill.gif" id="imgvalue"></img></div>Marill</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mesprit.gif" id="imgvalue"></img></div>Mesprit</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mimejr.gif" id="imgvalue"></img></div>MimeJr</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/minccino.gif" id="imgvalue"></img></div>Minccino</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/minun.gif" id="imgvalue"></img></div>Minun</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/morelull.gif" id="imgvalue"></img></div>Morelull</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/morpeko.gif" id="imgvalue"></img></div>Morpeko</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mudkip.gif" id="imgvalue"></img></div>Mudkip</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/munna.gif" id="imgvalue"></img></div>Munna</td>
+</tr></table></div>
+
 </div>
