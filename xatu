@@ -259,6 +259,11 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/combee.gif" id="imgvalue"></img></div>Combee</td>
 </tr></table></div>
 
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Lonely</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/shinx.gif" id="imgvalue"></img></div>Shinx</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/komala.gif" id="imgvalue"></img></div>Komala</td>
+</tr></table></div>
+
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Mild</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/fennekin.gif" id="imgvalue"></img></div>Fennekin</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/torchic.gif" id="imgvalue"></img></div>Torchic</td>
@@ -285,6 +290,11 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/litwick.gif" id="imgvalue"></img></div>Litwick</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/amaura.gif" id="imgvalue"></img></div>Amaura</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/petilil.gif" id="imgvalue"></img></div>Petilil</td>
+</tr></table></div>
+
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Rash</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/zorua-hisui.gif" id="imgvalue"></img></div>ZoruaHisui</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/vivillon.gif" id="imgvalue"></img></div>Vivillon</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Sassy</b></div></td>
