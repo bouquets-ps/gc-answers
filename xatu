@@ -225,4 +225,34 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/combee.gif" id="imgvalue"></img></div>Combee</td>
 </tr></table></div>
 
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Modest</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/cherrim-sunshine.gif" id="imgvalue"></img></div>CherrimSunshine</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/chingling.gif" id="imgvalue"></img></div>Chingling</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/glaceon.gif" id="imgvalue"></img></div>Glaceon</td>
+</tr></table></div>
+
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Naughty</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/cherrim-sunshine.gif" id="imgvalue"></img></div>Shinx</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/chingling.gif" id="imgvalue"></img></div>Pidove</td>
+</tr></table></div>
+
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Quiet</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mareep.gif" id="imgvalue"></img></div>Mareep</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/numel.gif" id="imgvalue"></img></div>Numel</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/spheal.gif" id="imgvalue"></img></div>Spheal</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/piplup.gif" id="imgvalue"></img></div>Piplup</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/munna.gif" id="imgvalue"></img></div>Munna</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/litwick.gif" id="imgvalue"></img></div>Litwick</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/amaura.gif" id="imgvalue"></img></div>Amaura</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/petilil.gif" id="imgvalue"></img></div>Petilil</td>
+</tr></table></div>
+
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Sassy</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/cleffa.gif" id="imgvalue"></img></div>Cleffa</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/corsola.gif" id="imgvalue"></img></div>Corsola</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/morelull.gif" id="imgvalue"></img></div>Morelull</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/sylveon.gif" id="imgvalue"></img></div>Sylveon</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/gossifleur.gif" id="imgvalue"></img></div>Gossifleur</td>
+</tr></table></div>
+
 </div>
