@@ -62,7 +62,11 @@ document.getElementById("searchBar").addEventListener("input", function() {
 }
 #htvalue {
   height: 100px;
-  vertical-align: bottom;
+  position: relative;
+}
+#imgvalue {
+  position: absolute;
+  bottom: 0;
 }
 div {
   overflow: scroll;
@@ -224,26 +228,16 @@ Mantyke</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td class="searchValue"><div id="whvalue"><b>Brown</b></div></td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/buneary.gif"></img></div>
-Buneary</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/deerling-winter.gif"></img></div>
-Deerling-Winter</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/rowlet.gif"></img></div>
-Rowlet</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/furret.gif"></img></div>
-Furret</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/teddiursa.gif"></img></div>
-Teddiursa</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/pumpkaboo.gif"></img></div>
-Pumpkaboo</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif"></img></div>
-Eevee</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/bunnelby.gif"></img></div>
-Bunnelby</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/swinub.gif"></img></div>
-Swinub</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/wooper-paldea.gif"></img></div>
-Wooper-Paldea</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/buneary.gif" id="imgvalue"></img></div>Buneary</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/deerling-winter.gif" id="imgvalue"></img></div>Deerling-Winter</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/rowlet.gif" id="imgvalue"></img></div>Rowlet</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/furret.gif" id="imgvalue"></img></div>Furret</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/teddiursa.gif" id="imgvalue"></img></div>Teddiursa</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/pumpkaboo.gif" id="imgvalue"></img></div>Pumpkaboo</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" id="imgvalue"></img></div>Eevee</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/bunnelby.gif" id="imgvalue"></img></div>Bunnelby</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/swinub.gif" id="imgvalue"></img></div>Swinub</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/wooper-paldea.gif" id="imgvalue"></img></div>Wooper-Paldea</td>
 </tr></table></div>
 
 
