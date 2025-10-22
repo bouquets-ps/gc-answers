@@ -67,6 +67,7 @@ document.getElementById("searchBar").addEventListener("input", function() {
 #imgvalue {
   position: absolute;
   bottom: 0;
+  left: 0;
 }
 div {
   overflow: scroll;
