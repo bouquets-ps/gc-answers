@@ -66,7 +66,7 @@ document.getElementById("searchBar").addEventListener("input", function() {
 }
 #imgvalue {
   position: absolute;
-  bottom: 0;
+  bottom: 5;
   left: 50%;
   transform: translate(-50%, 0%);
 }
@@ -199,11 +199,22 @@ button {
 
 <div id = "container">
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td class="searchValue"><div id="whvalue"><b>Black</b></div></td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/pikipek.gif"></img></div>
-Pikipek</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/spoink.gif"></img></div>
-Spoink</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="5"><tr><td class="searchValue"><div id="whvalue"><b>Black</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/buneary.gif" id="imgvalue"></img></div>Pikipek</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/deerling-winter.gif" id="imgvalue"></img></div>Spoink</td>
+</tr></table></div>
+
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="5"><tr><td class="searchValue"><div id="whvalue"><b>Blue</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/azurill.gif" id="imgvalue"></img></div>Azurill</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/wooper.gif" id="imgvalue"></img></div>Wooper</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/shinx.gif" id="imgvalue"></img></div>Shinx</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/spheal.gif" id="imgvalue"></img></div>Spheal</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/phanpy.gif" id="imgvalue"></img></div>Phanpy</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/cosmog.gif" id="imgvalue"></img></div>Cosmog</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/piplup.gif" id="imgvalue"></img></div>Piplup</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/swablu.gif" id="imgvalue"></img></div>Swablu</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/amaura.gif" id="imgvalue"></img></div>Amaura</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mantyke.gif" id="imgvalue"></img></div>Mantyke</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td class="searchValue"><div id="whvalue"><b>Blue</b></div></td>
