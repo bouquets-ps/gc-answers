@@ -57,6 +57,9 @@ document.getElementById("searchBar").addEventListener("input", function() {
 
 </script>
 <style>
+#htvalue {
+  height: 100px;
+}
 div {
   overflow: scroll;
 }
@@ -186,36 +189,34 @@ button {
 
 <div id = "container">
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" class="searchValue"><div style="width: 100px"><b>Black</b></div></td>
-<td><img src="https://play.pokemonshowdown.com/sprites/ani/pikipek.gif"></img></td>
-<td><img src="https://play.pokemonshowdown.com/sprites/ani/spoink.gif"></img></td>
-</tr><tr>
-<td>Pikipek</td>
-<td>Spoink</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td class="searchValue"><div style="width: 100px"><b>Black</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/pikipek.gif"></img></div>
+Pikipek</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/spoink.gif"></img></div>
+Spoink</td>
 </tr></table></div>
 
-<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" class="searchValue"><div style="width: 100px"><b>Blue</b></div></td>
-<td><img src="https://play.pokemonshowdown.com/sprites/ani/azurill.gif"></img></td>
-<td><img src="https://play.pokemonshowdown.com/sprites/ani/wooper.gif"></img></td>
-<td><img src="https://play.pokemonshowdown.com/sprites/ani/shinx.gif"></img></td>
-<td><img src="https://play.pokemonshowdown.com/sprites/ani/spheal.gif"></img></td>
-<td><img src="https://play.pokemonshowdown.com/sprites/ani/phanpy.gif"></img></td>
-<td><img src="https://play.pokemonshowdown.com/sprites/ani/cosmog.gif"></img></td>
-<td><img src="https://play.pokemonshowdown.com/sprites/ani/piplup.gif"></img></td>
-<td><img src="https://play.pokemonshowdown.com/sprites/ani/swablu.gif"></img></td>
-<td><img src="https://play.pokemonshowdown.com/sprites/ani/amaura.gif"></img></td>
-<td><img src="https://play.pokemonshowdown.com/sprites/ani/mantyke.gif"></img></td>
-</tr><tr>
-<td>Azurill</td>
-<td>Wooper</td>
-<td>Shinx</td>
-<td>Spheal</td>
-<td>Phanpy</td>
-<td>Cosmog</td>
-<td>Piplup</td>
-<td>Swablu</td>
-<td>Amaura</td>
-<td>Mantyke</td>
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td class="searchValue"><div style="width: 100px"><b>Blue</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/azurill.gif"></img></div>
+Azurill</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/wooper.gif"></img></div>
+Wooper</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/shinx.gif"></img></div>
+Shinx</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/spheal.gif"></img></div>
+Spheal</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/phanpy.gif"></img></div>
+Phanpy</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/cosmog.gif"></img></div>
+Cosmog</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/piplup.gif"></img></div>
+Piplup</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/swablu.gif"></img></div>
+Swablu</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/amaura.gif"></img></div>
+Amaura</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mantyke.gif"></img></div>
+Mantyke</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox"><table cellpadding="5"><tr><td rowspan="2" style="width: 160px" class="searchValue"><b>Brown</b></td>
