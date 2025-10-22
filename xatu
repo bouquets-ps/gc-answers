@@ -211,6 +211,17 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/wooloo.gif" id="imgvalue"></img></div>Wooloo</td>
 </tr></table></div>
 
+<div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Calm</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/hoppip.gif" id="imgvalue"></img></div>Hoppip</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/spoink.gif" id="imgvalue"></img></div>Spoink</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/swablu.gif" id="imgvalue"></img></div>Swablu</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/budew.gif" id="imgvalue"></img></div>Budew</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/happiny.gif" id="imgvalue"></img></div>Happiny</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mantyke.gif" id="imgvalue"></img></div>Mantyke</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mimejr.gif" id="imgvalue"></img></div>MimeJr</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/flabebe.gif" id="imgvalue"></img></div>Flabebe</td>
+</tr></table></div>
+
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Careful</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" id="imgvalue"></img></div>Eevee</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/swablu.gif" id="imgvalue"></img></div>Swablu</td>
