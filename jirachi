@@ -216,6 +216,10 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/swablu.gif" id="imgvalue"></img></div>Swablu</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/amaura.gif" id="imgvalue"></img></div>Amaura</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mantyke.gif" id="imgvalue"></img></div>Mantyke</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/surskit.gif" id="imgvalue"></img></div>Surskit</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/manaphy.gif" id="imgvalue"></img></div>Manaphy</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/komala.gif" id="imgvalue"></img></div>Komala</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/finneon.gif" id="imgvalue"></img></div>Finneon</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Brown</b></div></td>
@@ -263,6 +267,9 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/jigglypuff.gif" id="imgvalue"></img></div>Jigglypuff</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mesprit.gif" id="imgvalue"></img></div>Mesprit</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/corsola.gif" id="imgvalue"></img></div>Corsola</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/happiny.gif" id="imgvalue"></img></div>Happiny</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mew.gif" id="imgvalue"></img></div>Mew</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mimejr.gif" id="imgvalue"></img></div>MimeJr</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Purple</b></div></td>
@@ -270,6 +277,7 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/goomy.gif" id="imgvalue"></img></div>Goomy</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/drifloon.gif" id="imgvalue"></img></div>Drifloon</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/noibat.gif" id="imgvalue"></img></div>Noibat</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/morelull.gif" id="imgvalue"></img></div>Morelull</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Red</b></div></td>
