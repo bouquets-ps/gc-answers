@@ -201,35 +201,25 @@ button {
 <div id = "container">
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>A</b></div></td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/altaria.gif" id="imgvalue"></img></div>Altaria</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/amaura.gif" id="imgvalue"></img></div>Amaura</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/ampharos.gif" id="imgvalue"></img></div>Ampharos</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/audino.gif" id="imgvalue"></img></div>Audino</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/aurorus.gif" id="imgvalue"></img></div>Aurorus</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/azurill.gif" id="imgvalue"></img></div>Azurill</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/amaura.gif" id="imgvalue"></img></div>Amaura</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>B</b></div></td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/bayleef.gif" id="imgvalue"></img></div>Bayleef</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/bidoof.gif" id="imgvalue"></img></div>Bidoof</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/blissey.gif" id="imgvalue"></img></div>Blissey</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/buneary.gif" id="imgvalue"></img></div>Buneary</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/bounsweet.gif" id="imgvalue"></img></div>Bounsweet</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/brionne.gif" id="imgvalue"></img></div>Brionne</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/budew.gif" id="imgvalue"></img></div>Budew</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/buizel.gif" id="imgvalue"></img></div>Buizel</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/buneary.gif" id="imgvalue"></img></div>Buneary</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/bunnelby.gif" id="imgvalue"></img></div>Bunnelby</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/bidoof.gif" id="imgvalue"></img></div>Bidoof</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>C</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/cleffa.gif" id="imgvalue"></img></div>Cleffa</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/combee.gif" id="imgvalue"></img></div>Combee</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/cosmog.gif" id="imgvalue"></img></div>Cosmog</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/chespin.gif" id="imgvalue"></img></div>Chespin</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/chingling.gif" id="imgvalue"></img></div>Chingling</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/cinccino.gif" id="imgvalue"></img></div>Cinccino</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/cleffa.gif" id="imgvalue"></img></div>Cleffa</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/clodsire.gif" id="imgvalue"></img></div>Clodsire</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/combee.gif" id="imgvalue"></img></div>Combee</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/corsola.gif" id="imgvalue"></img></div>Corsola</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/cosmog.gif" id="imgvalue"></img></div>Cosmog</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/cutiefly.gif" id="imgvalue"></img></div>Cutiefly</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/cyndaquil.gif" id="imgvalue"></img></div>Cyndaquil</td>
 </tr></table></div>
@@ -238,7 +228,6 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/deerling.gif" id="imgvalue"></img></div>Deerling</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/dedenne.gif" id="imgvalue"></img></div>Dedenne</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/drifloon.gif" id="imgvalue"></img></div>Drifloon</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/dolliv.gif" id="imgvalue"></img></div>Dolliv</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/dunsparce.gif" id="imgvalue"></img></div>Dunsparce</td>
 </tr></table></div>
 
@@ -246,7 +235,6 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" id="imgvalue"></img></div>Eevee</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/emolga.gif" id="imgvalue"></img></div>Emolga</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/espurr.gif" id="imgvalue"></img></div>Espurr</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/espeon.gif" id="imgvalue"></img></div>Espeon</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>F</b></div></td>
@@ -272,7 +260,6 @@ button {
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>I</b></div></td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/ivysaur.gif" id="imgvalue"></img></div>Ivysaur</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/igglybuff.gif" id="imgvalue"></img></div>Igglybuff</td>
 </tr></table></div>
 
@@ -334,13 +321,12 @@ button {
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Q</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/quilava.gif" id="imgvalue"></img></div>Quilava</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/quagsire.gif" id="imgvalue"></img></div>Quagsire</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>R</b></div></td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/rowlet.gif" id="imgvalue"></img></div>Rowlet</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/ralts.gif" id="imgvalue"></img></div>Ralts</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/ribombee.gif" id="imgvalue"></img></div>Ribombee</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/rowlet.gif" id="imgvalue"></img></div>Rowlet</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/rockruff.gif" id="imgvalue"></img></div>Rockruff</td>
 </tr></table></div>
 
@@ -374,12 +360,10 @@ button {
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>U</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/umbreon.gif" id="imgvalue"></img></div>Umbreon</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/ursaluna.gif" id="imgvalue"></img></div>Ursaluna</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>V</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/victini.gif" id="imgvalue"></img></div>Victini</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/vaporeon.gif" id="imgvalue"></img></div>Vaporeon</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>W</b></div></td>
