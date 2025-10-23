@@ -303,7 +303,6 @@ button {
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>O</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/oshawott.gif" id="imgvalue"></img></div>Oshawott</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/omanyte.gif" id="imgvalue"></img></div>Omanyte</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>P</b></div></td>
@@ -367,11 +366,10 @@ button {
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>W</b></div></td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/whimsicott.gif" id="imgvalue"></img></div>Whimsicott</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/wingull.gif" id="imgvalue"></img></div>Wingull</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/wooloo.gif" id="imgvalue"></img></div>Wooloo</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/wooper.gif" id="imgvalue"></img></div>Wooper</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/wurmple.gif" id="imgvalue"></img></div>Wurmple</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/whimsicott.gif" id="imgvalue"></img></div>Whimsicott</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/wingull.gif" id="imgvalue"></img></div>Wingull</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>X</b></div></td>
