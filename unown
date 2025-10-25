@@ -227,7 +227,6 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/deerling.gif" id="imgvalue"></img></div>Deerling</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/dedenne.gif" id="imgvalue"></img></div>Dedenne</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/drifloon.gif" id="imgvalue"></img></div>Drifloon</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/dunsparce.gif" id="imgvalue"></img></div>Dunsparce</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>E</b></div></td>
@@ -246,8 +245,6 @@ button {
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>G</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/goomy.gif" id="imgvalue"></img></div>Goomy</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/glaceon.gif" id="imgvalue"></img></div>Glaceon</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/gossifleur.gif" id="imgvalue"></img></div>Gossifleur</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/gulpin.gif" id="imgvalue"></img></div>Gulpin</td>
 </tr></table></div>
 
@@ -282,21 +279,17 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/munna.gif" id="imgvalue"></img></div>Munna</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mantyke.gif" id="imgvalue"></img></div>Mantyke</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/minccino.gif" id="imgvalue"></img></div>Minccino</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/marill.gif" id="imgvalue"></img></div>Marill</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mesprit.gif" id="imgvalue"></img></div>Mesprit</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/manaphy.gif" id="imgvalue"></img></div>Manaphy</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mimejr.gif" id="imgvalue"></img></div>MimeJr</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/minun.gif" id="imgvalue"></img></div>Minun</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/morelull.gif" id="imgvalue"></img></div>Morelull</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/morpeko.gif" id="imgvalue"></img></div>Morpeko</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mudkip.gif" id="imgvalue"></img></div>Mudkip</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/mareep.gif" id="imgvalue"></img></div>Mareep</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>N</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/numel.gif" id="imgvalue"></img></div>Numel</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/noibat.gif" id="imgvalue"></img></div>Noibat</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/nidoranf.gif" id="imgvalue"></img></div>NidoranF</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>O</b></div></td>
@@ -311,7 +304,6 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/pidove.gif" id="imgvalue"></img></div>Pidove</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/piplup.gif" id="imgvalue"></img></div>Piplup</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/petilil.gif" id="imgvalue"></img></div>Petilil</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/plusle.gif" id="imgvalue"></img></div>Plusle</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/pumpkaboo.gif" id="imgvalue"></img></div>Pumpkaboo</td>
 </tr></table></div>
 
@@ -321,9 +313,7 @@ button {
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>R</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/rowlet.gif" id="imgvalue"></img></div>Rowlet</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/ralts.gif" id="imgvalue"></img></div>Ralts</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/ribombee.gif" id="imgvalue"></img></div>Ribombee</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/rockruff.gif" id="imgvalue"></img></div>Rockruff</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>S</b></div></td>
@@ -340,8 +330,6 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/swinub.gif" id="imgvalue"></img></div>Swinub</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/skwovet.gif" id="imgvalue"></img></div>Skwovet</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/skiploom.gif" id="imgvalue"></img></div>Skiploom</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/scorbunny.gif" id="imgvalue"></img></div>Scorbunny</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/sentret.gif" id="imgvalue"></img></div>Sentret</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>T</b></div></td>
@@ -350,7 +338,6 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/torchic.gif" id="imgvalue"></img></div>Torchic</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/turtwig.gif" id="imgvalue"></img></div>Turtwig</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/togepi.gif" id="imgvalue"></img></div>Togepi</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/tepig.gif" id="imgvalue"></img></div>Tepig</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>U</b></div></td>
@@ -378,7 +365,6 @@ button {
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Z</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/zigzagoon.gif" id="imgvalue"></img></div>Zigzagoon</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/zorua.gif" id="imgvalue"></img></div>Zorua</td>
 </tr></table></div>
 
 </div>
