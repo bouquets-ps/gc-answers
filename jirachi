@@ -297,6 +297,7 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/litwick.gif" id="imgvalue"></img></div>Litwick</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/emolga.gif" id="imgvalue"></img></div>Emolga</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/togepi.gif" id="imgvalue"></img></div>Togepi</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/wingull.gif" id="imgvalue"></img></div>Wingull</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Yellow</b></div></td>
