@@ -291,6 +291,7 @@ button {
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Modest</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/cherrim-sunshine.gif" id="imgvalue"></img></div>CherrimSunshine</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/chingling.gif" id="imgvalue"></img></div>Chingling</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/hatenna.gif" id="imgvalue"></img></div>Hatenna</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Naive</b></div></td>
