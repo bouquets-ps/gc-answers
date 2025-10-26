@@ -274,7 +274,7 @@ button {
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Lax</b></div></td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/dwebble.gif" id="imgvalue"></img></div>Dwebble</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/dwebble.gif" id="imgvalue"></img></div>Dwebble*</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Lonely</b></div></td>
