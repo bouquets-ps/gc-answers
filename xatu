@@ -329,6 +329,7 @@ button {
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Sassy</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/cleffa.gif" id="imgvalue"></img></div>Cleffa</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/morelull.gif" id="imgvalue"></img></div>Morelull</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/corsola.gif" id="imgvalue"></img></div>Corsola</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Timid</b></div></td>
