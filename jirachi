@@ -248,7 +248,6 @@ button {
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/whimsicott.gif" id="imgvalue"></img></div>Whimsicott</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/lotad.gif" id="imgvalue"></img></div>Lotad</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/turtwig.gif" id="imgvalue"></img></div>Turtwig</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/skiploom.gif" id="imgvalue"></img></div>Skiploom</td>
 </tr></table></div>
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Pink</b></div></td>
