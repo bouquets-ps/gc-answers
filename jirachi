@@ -224,7 +224,6 @@ button {
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Brown</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/buneary.gif" id="imgvalue"></img></div>Buneary</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/deerling-winter.gif" id="imgvalue"></img></div>DeerlingWinter</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/rowlet.gif" id="imgvalue"></img></div>Rowlet</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/furret.gif" id="imgvalue"></img></div>Furret</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/teddiursa.gif" id="imgvalue"></img></div>Teddiursa</td>
@@ -244,7 +243,6 @@ button {
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Green</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/shaymin.gif" id="imgvalue"></img></div>Shaymin</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/deerling-summer.gif" id="imgvalue"></img></div>DeerlingSummer</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/budew.gif" id="imgvalue"></img></div>Budew</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/sprigatito.gif" id="imgvalue"></img></div>Sprigatito</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/whimsicott.gif" id="imgvalue"></img></div>Whimsicott</td>
@@ -279,7 +277,6 @@ button {
 
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Red</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/fennekin.gif" id="imgvalue"></img></div>Fennekin</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/deerling-autumn.gif" id="imgvalue"></img></div>DeerlingAutumn</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/fletchling.gif" id="imgvalue"></img></div>Fletchling</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/torchic.gif" id="imgvalue"></img></div>Torchic</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/litten.gif" id="imgvalue"></img></div>Litten</td>
