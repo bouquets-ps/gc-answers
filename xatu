@@ -256,7 +256,7 @@ button {
 <div style="display: inline-block; border: 1px solid #68a ; border-radius: 5px ; padding: 25px; margin-bottom: 10px; width: 95%" class="infobox" id="divvalue"><table cellpadding="15"><tr><td class="searchValue"><div id="whvalue"><b>Impish</b></div></td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/wooloo.gif" id="imgvalue"></img></div>Wooloo</td>
 <td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/sewaddle.gif" id="imgvalue"></img></div>Sewaddle</td>
-<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/pumpkaboo.gif" id="imgvalue"></img></div>Pumpkaboo</td>
+<td><div id="htvalue"><img src="https://play.pokemonshowdown.com/sprites/ani/pumpkaboo-small.gif" id="imgvalue"></img></div>PumpkabooSmall</td>
 </tr></table></div>
 
 
